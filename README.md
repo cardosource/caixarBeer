@@ -6,5 +6,6 @@ Como caixa eletrônico porem essa sai cerveja
 
 
 E perto onde esta existe uma distribuidora porém (em casos) fechada as 4:30 da madruga.
+Assim como caixa eletrônico 24hr só passar o cartão  informar a quantidade  e pronto.
 
 
