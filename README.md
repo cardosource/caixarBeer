@@ -10,5 +10,7 @@ Assim como caixa eletrônico 24hr só passar o cartão  informar a quantidade  e
 
 É otimo, e se tivessem uma caixa 24 hr perto onde esta e  fosse de cerveja 😌️😌️.
 
+Só escolher a marca e a quantidade.
+
 
 
