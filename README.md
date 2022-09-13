@@ -20,7 +20,7 @@ Existir, existe de pinga cigarro mas a sempre espaço para mais 😌️
 ![Logo](https://raw.githubusercontent.com/cardosource/caixaBeer/main/caixabeer.png)
 
 
-Pequeno projeto para praticas javascript e jQuery.
+Pequeno projeto para praticar javascript e jQuery.
 
 
 ![](https://img.shields.io/badge/ES6+-informational?style=flat&logo=javascript&logoColor=yellow&color=black) 
