@@ -24,3 +24,4 @@ Pequeno projeto para praticar javascript e jQuery.
 
 
 ![](https://img.shields.io/badge/ES6+-informational?style=flat&logo=javascript&logoColor=yellow&color=black) 
+![](https://img.shields.io/badge/ES6+-informational?style=flat&logo=jQuery&logoColor=yellow&color=black) 
